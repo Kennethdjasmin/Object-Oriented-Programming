@@ -1,2 +1,2 @@
 # Object-Oriented-Programming
-All about OOP
+Week 6 - Arrays
